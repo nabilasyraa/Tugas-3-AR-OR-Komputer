@@ -35,5 +35,3 @@
 **7. Perangkat Lunak:**
 - Linux: Sebagian besar perangkat lunak untuk Linux adalah open-source, yang berarti kode sumbernya dapat diakses dan dimodifikasi oleh siapa saja.
 - Windows: Sebagian besar perangkat lunak untuk Windows adalah perangkat lunak berpemilik, yang berarti kode sumbernya tidak dapat diakses secara bebas.
-
-20/9/2024
