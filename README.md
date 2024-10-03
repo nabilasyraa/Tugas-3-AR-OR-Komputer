@@ -2,6 +2,12 @@
 
 ### Perbedaan Arsitektur Linux dan Windows
 
+**Linux os**
+![Screenshot 2024-10-03 221746](https://github.com/user-attachments/assets/771f3626-c7f3-4689-92e1-f0aa4494c4bf)
+
+**Windows**
+![Screenshot 2024-10-03 222207](https://github.com/user-attachments/assets/b8e7460e-a5bd-404b-98fc-12970bc2c2aa)
+
 **1. Inti Sistem (Kernel):**
 - Linux: Menggunakan kernel monolitik atau microkernel yang bersifat open-source. Kernel Linux sangat fleksibel dan dapat disesuaikan, memungkinkan berbagai jenis perangkat keras dan konfigurasi sistem.
 - Windows: Menggunakan kernel hibrida yang lebih tertutup. Kernel Windows dirancang untuk memberikan kinerja yang baik pada perangkat keras yang umum digunakan.
